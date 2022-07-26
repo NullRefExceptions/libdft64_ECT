@@ -2,7 +2,7 @@
 
 This repository include the source code of the Efficient Container Tag
 
-The basic taint analysis framework and angora tag is from [libdft64](https://github.com/AngoraFuzzer/libdft64)
+The basic taint analysis framework and angora tag are from [libdft64](https://github.com/AngoraFuzzer/libdft64)
 
 The BDD package is from [sylvan](https://github.com/trolando/sylvan)
 
